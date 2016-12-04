@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.pdb
